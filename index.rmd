@@ -9,10 +9,11 @@ output:
 
 Hi, my name is Laura
 
-Here is my linkedin 
+Here is a link
 
 ![](pic.jpeg)
 
 # Add link
 
-You can learn about me [here] (aboutme.rmd)
+You can learn about me [here] (aboutme.html)
+
