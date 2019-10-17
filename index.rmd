@@ -1,12 +1,18 @@
 ---
-title: "My awesome website"
-output: 
+title: "My Awesome Website"
+output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
+# This is Laura's awesome website
 
-# This is Jeff's awesome website
+Hi, my name is Laura
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+Here is my linkedin 
+
+![](pic.jpeg)
+
+# Add link
+
+You can learn about me [here] (aboutme.rmd)
